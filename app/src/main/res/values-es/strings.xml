@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Reaction</string>
+
+    <string name="web_client_id">679653556950-8108bisb7m7kqpn3801v9s93oosuefeo.apps.googleusercontent.com</string>
+    <string name="DataBase">https://reaction-ba4ab-default-rtdb.europe-west1.firebasedatabase.app/</string>
+    <string name="reactionresult">Resultado de reacción</string>
+    <string name="singout">Cerrar sesión</string>
+    <string name="bestresult">Mejor resultado</string>
+    <string name="result">Resultado</string>
+    <string name="atantion">No podemos mostrar tus estadísticas en listas compartidas y listas de jugadores sin registro.</string>
+    <string name="main_text">Prueba de reacción</string>
+    <string name="title_activity_secondtest">Segunda prueba</string>
+    <string name="title_activity_second_activiti">Segunda actividad</string>
+    <string name="title_activity_tetrismenu">Menú de Tetris</string>
+    <string name="main_tetris">Tetris</string>
+    <string name="title_activity_main_menu">Menú principal</string>
+    <string name="hello">¡Hola!</string>
+    <string name="welcome">Bienvenido/a!</string>
+
+    <string name="login">Iniciar sesión con Google</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="submit">Enviar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="error">Error</string>
+    <string name="loading">Cargando...</string>
+    <string name="success">Éxito</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="settings">Ajustes</string>
+    <string name="save">Guardar</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit">Editar</string>
+    <string name="update">Actualizar</string>
+    <string name="confirm">Confirmar</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="exit">Salir</string>
+    <string name="back">Atrás</string>
+    <string name="search">Buscar</string>
+    <string name="select">Seleccionar</string>
+    <string name="view">Ver</string>
+    <string name="share">Compartir</string>
+    <string name="copy">Copiar</string>
+    <string name="paste">Pegar</string>
+    <string name="undo">Deshacer</string>
+    <string name="redo">Rehacer</string>
+    <string name="preferences">Preferencias</string>
+    <string name="language">Idioma</string>
+    <string name="theme">Tema</string>
+    <string name="dark">Oscuro</string>
+    <string name="light">Claro</string>
+    <string name="help">Ayuda</string>
+    <string name="about">Acerca de</string>
+    <string name="version">Versión</string>
+    <string name="author">Autor</string>
+    <string name="copyright">Derechos de autor</string>
+    <string name="privacy_policy">Política de privacidad</string>
+
+    <string name="difficulty">Nivel de dificultad</string>
+    <string name="easy">Fácil</string>
+    <string name="medium">Medio</string>
+    <string name="hard">Difícil</string>
+    <string name="difficulty_settings">Difficulty Level Settings</string>
+    <string name="title_activity_logek_log_in">LogekLogIn</string>
+    <string name="title_activity_tester">Tester</string>
+    <string name="title_activity_data_tester">DataActivity_Tester</string>
+    <string name="title_activity_write">Write_Activity</string>
+
+</resources>

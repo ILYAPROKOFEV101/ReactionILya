@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Reaction</string>
+
+    <string name="web_client_id">679653556950-8108bisb7m7kqpn3801v9s93oosuefeo.apps.googleusercontent.com</string>
+    <string name="DataBase">https://reaction-ba4ab-default-rtdb.europe-west1.firebasedatabase.app/</string>
+    <string name="reactionresult">תוצאת תגובה</string>
+    <string name="singout">יציאה מהחשבון</string>
+    <string name="bestresult">התוצאה הטובה ביותר</string>
+    <string name="result">תוצאה</string>
+    <string name="atantion">אנחנו לא יכולים להציג את הסטטיסטיקה שלך ברשימות משותפות וברשימות שחקנים בלי הרשמה.</string>
+    <string name="main_text">מבחן תגובה</string>
+    <string name="title_activity_secondtest">מבחן_שני</string>
+    <string name="title_activity_second_activiti">פעילות_שנייה</string>
+    <string name="title_activity_tetrismenu">תפריט_טטריס</string>
+    <string name="main_tetris">טטריס</string>
+    <string name="title_activity_main_menu">תפריט_ראשי</string>
+    <string name="hello">שלום!</string>
+    <string name="welcome">ברוך הבא!</string>
+
+    <string name="login">התחבר עם Google</string>
+    <string name="username">שם משתמש</string>
+    <string name="password">סיסמה</string>
+    <string name="submit">שליחה</string>
+    <string name="cancel">ביטול</string>
+    <string name="error">שגיאה</string>
+    <string name="loading">טוען...</string>
+    <string name="success">הצלחה</string>
+    <string name="logout">יציאה</string>
+    <string name="settings">הגדרות</string>
+    <string name="save">שמירה</string>
+    <string name="delete">מחיקה</string>
+    <string name="edit">עריכה</string>
+    <string name="update">עדכון</string>
+    <string name="confirm">אישור</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="exit">יציאה</string>
+    <string name="back">חזור</string>
+    <string name="search">חיפוש</string>
+    <string name="select">בחירה</string>
+    <string name="view">תצוגה</string>
+    <string name="share">שיתוף</string>
+    <string name="copy">העתקה</string>
+    <string name="paste">הדבקה</string>
+    <string name="undo">ביטול</string>
+    <string name="redo">חזרה על פעולה</string>
+    <string name="preferences">העדפות</string>
+    <string name="language">שפה</string>
+    <string name="theme">ערכת נושא</string>
+    <string name="dark">כהה</string>
+    <string name="light">בהיר</string>
+    <string name="help">עזרה</string>
+    <string name="about">אודות</string>
+    <string name="version">גרסה</string>
+    <string name="author">מחבר</string>
+    <string name="copyright">זכויות יוצרים</string>
+    <string name="privacy_policy">מדיניות פרטיות</string>
+
+    <string name="difficulty">רמת קושי</string>
+    <string name="easy">קל</string>
+    <string name="medium">בינוני</string>
+    <string name="hard">קשה</string>
+    <string name="difficulty_settings">הגדרות רמת קושי</string>
+    <string name="title_activity_logek_log_in">כניסת_Logek</string>
+    <string name="title_activity_tester">בדיקה</string>
+    <string name="title_activity_data_tester">פעילות_בדיקה_נתונים</string>
+    <string name="title_activity_write">כתיבת_פעילות</string>
+
+</resources>
